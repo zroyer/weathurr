@@ -3,7 +3,7 @@
 
 
 ## setup
-- clone and head inside `/weathurr` 
+- clone and `cd` inside `/weathurr` 
 - ```npm install```
 - ```webpack```
 - open up `/dist/index.html` and enjoy!
